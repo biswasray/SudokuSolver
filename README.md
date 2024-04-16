@@ -1,3 +1,3 @@
 # SudokuSolver
 Click the link below <br>
-https://subhasish9583672357.github.io/SudokuSolver/
+[Play](https://biswasray.github.io/SudokuSolver/)
